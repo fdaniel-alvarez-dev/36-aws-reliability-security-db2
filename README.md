@@ -1,6 +1,9 @@
-# 36-aws-reliability-security
+# 36-aws-reliability-security-db2
 
 A reference data platform blueprint with pragmatic governance: quality checks, lineage, access controls, and CI for data assets.
+
+Focus: db2
+
 
 ## The top pains this repo addresses
 1) Designing a resilient, scalable cloud platform foundation—Kubernetes/container orchestration, networking, and standard patterns teams can reuse.
